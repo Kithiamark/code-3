@@ -1,4 +1,4 @@
-// Your code here
+// Type your code
 document.addEventListener("DOMContentLoaded", () => {
     // DOM elements
     const movieList = document.getElementById("movie-list");
